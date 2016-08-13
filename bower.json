@@ -1,0 +1,29 @@
+{
+  "name": "react-file-input",
+  "version": "0.0.0",
+  "description": "FileInput",
+  "main": "dist/react-file-input.min.js",
+  "homepage": "https://github.com/ranyefet/react-file-input",
+  "authors": [
+    "ranyefet"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
