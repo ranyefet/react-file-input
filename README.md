@@ -32,7 +32,7 @@ npm install react-file-input --save
 
 You can use any custom react component as FileInput children
 
-```
+```js
 var FileInput = require('react-file-input');
 
 <FileInput onChange={handleFileChanged}>
