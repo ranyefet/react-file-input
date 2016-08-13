@@ -24,7 +24,7 @@ The easiest way to use react-file-input is to install it from NPM and include it
 You can also use the standalone build by including `dist/react-file-input.js` in your page. If you use this, make sure you have already included React, and it is available as a global variable.
 
 ```
-npm install react-file-input --save
+npm install @ranyefet/react-file-input --save
 ```
 
 
@@ -33,7 +33,7 @@ npm install react-file-input --save
 You can use any custom react component as FileInput children
 
 ```js
-var FileInput = require('react-file-input');
+var FileInput = require('@ranyefet/react-file-input');
 
 <FileInput onChange={handleFileChanged}>
   <button>Select files...</button>

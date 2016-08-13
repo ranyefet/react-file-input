@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var FileInput = require('react-file-input');
+var FileInput = require('@ranyefet/react-file-input');
 var ImagePreviewer = require('./components/ImagePreviewer');
 var FilesPreviewer = require('./components/FilesPreviewer');
 var mapFiles = require('./utils').mapFiles;

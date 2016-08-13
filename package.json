@@ -1,6 +1,6 @@
 {
-  "name": "react-file-input",
-  "version": "1.0.0",
+  "name": "@ranyefet/react-file-input",
+  "version": "1.0.1",
   "description": "FileInput",
   "main": "lib/FileInput.js",
   "author": "Ran Yefet",
